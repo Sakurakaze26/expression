@@ -1,0 +1,4 @@
+﻿  parser.c
+C:\ITS112L\exp\expression\expression\expression\parser.c(77,14): warning C4013: 'error' undefined; assuming extern returning int
+C:\ITS112L\exp\expression\expression\expression\parser.c(83,26): warning C4013: 'lexan' undefined; assuming extern returning int
+  expression.vcxproj -> C:\ITS112L\exp\expression\expression\Debug\expression.exe
